@@ -8,7 +8,7 @@
   "main": "index.js",
   "dependencies": {
     "deep-equal": "^1.0.1",
-    "react-native-data-table": "^0.1.5",
+    "react-native-data-table": "https://github.com/martsie/react-native-data-table",
     "react-native-ui-components": "^0.4.2"
   },
   "devDependencies": {
